@@ -2,7 +2,7 @@
 	"Interface": 90207,
 	"Author": "Drownedtrout",
 	"Title": "FindMyBuddy",
-	"Version": "1.1.5",
+	"Version": "1.1.9",
 	"Notes": "Finds your buddies in a raid group or a party while outside instances.",
 	"SavedVariables": "FindMyBuddyDB",
 	"Files": ["embeds.xml", "core.lua"]
