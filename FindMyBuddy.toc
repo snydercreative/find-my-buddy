@@ -1,0 +1,10 @@
+## Interface: 90207
+## Author: KilgoreTrout
+## Title: Find My Buddy
+## Version: 1.1.5
+## Notes: Finds your buddies in a raid group or a party.
+## SavedVariables: FindMyBuddyDB
+
+embeds.xml
+
+core.lua
